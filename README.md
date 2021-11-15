@@ -66,3 +66,12 @@ $ docker-compose -f ./docker-compose-service.yml -p spring-boot-service down
 ## Contribute
 
 ## Reference
+- https://github.com/grpc/proposal/blob/master/A27-xds-global-load-balancing.md
+- https://grpc.io/blog/grpc-load-balancing/
+- https://salmaan-rashid.medium.com/grpc-xds-loadbalancing-a05f8bd754b8
+- https://confluence.zalopay.vn/display/Accounting/Look-aside+load+balancing
+- https://cloud.google.com/traffic-director/docs/proxyless-overview
+- https://www.envoyproxy.io/docs/envoy/latest/api-docs/xds_protocol
+- https://programmer.group/grpc-service-discovery-amp-load-balancing.html
+- https://www.envoyproxy.io/docs/envoy/latest/api-docs/xds_protocol#xds-protocol-ads
+- https://www.envoyproxy.io/docs/envoy/latest/configuration/overview/xds_api#config-overview-management-server
